@@ -16,3 +16,5 @@ Análisis de una matriz de datos de una librería en la gestión de prestamos de
 
   Excel
   Canvas
+
+https://cdn.urbantecno.com/urbantecno/2023/06/puedes-utilizar-atajos-de-teclado-para-ejecutar-diversas-acciones-y-sacarle-mas-provecho-a-las-opciones-de-excel.jpg
