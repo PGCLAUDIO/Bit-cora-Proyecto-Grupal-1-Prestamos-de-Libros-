@@ -17,4 +17,5 @@ Análisis de una matriz de datos de una librería en la gestión de prestamos de
   Excel
   Canvas
 
+[![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#)
 https://cdn.urbantecno.com/urbantecno/2023/06/puedes-utilizar-atajos-de-teclado-para-ejecutar-diversas-acciones-y-sacarle-mas-provecho-a-las-opciones-de-excel.jpg
